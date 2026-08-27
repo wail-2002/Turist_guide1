@@ -12,3 +12,4 @@ public class TouristRepository {
             extends JpaRepository<TouristAttraction, Long> {
     }
 }
+//gg
