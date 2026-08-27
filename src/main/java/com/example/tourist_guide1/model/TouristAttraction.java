@@ -1,9 +1,8 @@
 package com.example.tourist_guide1.model;
 
-public class Tourist {
+public class TouristAttraction {
 
     String name;
-    int age;
-
+    String description;
 
 }
