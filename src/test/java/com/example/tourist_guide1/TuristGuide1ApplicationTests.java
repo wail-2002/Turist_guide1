@@ -1,4 +1,4 @@
-package com.example.turist_guide1;
+package com.example.tourist_guide1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
