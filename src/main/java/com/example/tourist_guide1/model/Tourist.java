@@ -2,8 +2,8 @@ package com.example.tourist_guide1.model;
 
 public class Tourist {
 
-    String name;
-    int age;
+    private String name;
+    private int age;
 
 
 }
